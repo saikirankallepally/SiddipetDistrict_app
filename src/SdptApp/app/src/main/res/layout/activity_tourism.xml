@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tourism">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="200dp"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/kchev"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/komaticheruvu"
+        android:onClick="ktcheruvu_bt"
+        android:text="@string/komati"
+        android:textColor="@android:color/white"
+        tools:text="komati cheruvu" />
+
+    <Button
+        android:id="@+id/kotiling"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        android:background="@drawable/kotilingeshwar"
+        android:text="@string/kotiling"
+        android:textColor="@android:color/white"
+        tools:text="komati cheruvu" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/kaman"
+        android:background="@drawable/lalkaman"
+        android:layout_below="@id/kotiling"
+        android:text="@string/lal"
+        android:textColor="@android:color/background_dark" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/komaravelli"
+        android:background="@drawable/komaravelli"
+        android:layout_below="@id/kaman"
+        android:text="@string/komaravelli"
+        android:textColor="@android:color/background_dark" />
+
+</LinearLayout>
+
+</ScrollView>

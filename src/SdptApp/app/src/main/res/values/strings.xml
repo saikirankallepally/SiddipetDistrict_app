@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">SdptApp</string>
+    <string name="menu">menu</string>
+    <string name="SDPT">sdpt</string>
+    <string name="hello">hello</string>
+    <string name="komati">komati_cheruvu</string>
+    <string name="kotiling">kotilingeshwara temple</string>
+    <string name="lal">Lal_kaman</string>
+    <string name="komaravelli">komaravelli</string>
+    <string name="hospitals">\t Siddhartha Hospitals\n
+\tBeside Old Busstand, Shivaji Nagar, Siddipet Ho, Siddipet - 502103
+Call: +(91)-8457-228888, +(91)-9000927239
+Call: +(91)-8457-223322\n\n\</string>
+    <string name="police">police stations</string>
+    <string name="colleges">/b /t Engineering College:/n/n
+1.Indur Institute of Engineering and Technology, Siddipet/n
+2.SSR Engineering College, Siddipet
+
+Pharmacy Colleges:
+1. Srikrupa Institute of Pharmaceutical Sciences.
+2. Procadence college of Pharmacy
+
+Private Jr Colleges:
+1.Prathiba Jr Colleges.
+2.Spice Jr Colleges.
+3.Sree Medha Siddhi Jr Colleges.
+4.Akshara Jr Colleges.
+5.Sree Nidhi Jr Colleges.
+6.Pragathi Jr Colleges.
+7.Sree Chaitanya Jr Colleges.
+8.Gurukrupa Jr Colleges.
+9.SR ( Sarvepally Radhakrishna) Jr Colleges.
+
+Govt Jr Colleges:
+1.Govt Boys Jr Colleges.
+2.Govt Girls Jr Colleges.
+
+ Degree Colleges:
+1. SRK Degree College (Sarvepalli Radha Krishan), Siddipet
+2. YPR Degree College, Siddipet
+3. Government Degree College, Siddipet
+4. Prathiba Degree College, Siddipet
+5. BMR Degree College, Siddipet
+6.  Vijaya Sai Degree College, Siddipet
+7.  Sanga Mithra Degree College, Siddipet
+8.  Adharsha Degree College, Siddipet
+9.  SVB Degree College, Siddipet
+10. Sri Vidya Degree College, Siddipet
+11. Gayatri Degree College, Siddipet
+12. Sathyam Degree College, Siddipet
+13. Ellenki Degree College, Siddipet
+14. Indira Womens Degree College, Siddipet
+
+
+PG Colleges:
+1. Osmania University Post Graduate Centre, Siddipet
+
+B.Ed Colleges:
+1. ST MARYS COLLEGE OF EDUCATION, Siddipet
+2. ISLAMIA COLLEGE OF EDUCATION, Siddipet
+
+Nursing Colleges:
+1. Venkatasai Nursing College, Siddipet
+2. Sri Sai Nursing College, Siddipet
+
+Vocational Colleges
+
+    1.   Govt Boys Jr College.
+    2.   Govt Girls Jr College.
+    3.   Pragathi Vocational Jr College.
+    4.   Sarojini vocational Jr College Duddeda X Road.</string>
+
+    <string name="govthsptl">\t Govt Hospital \nNear Komati Cheruvu, Siddipet Ho, Siddipet - 502103
+            Call: +(91)-8457-222036\n\n\n\t</string>
+    <string name="surkhospital">/t shivaji nagar siddipet,beside seetharamanjaneya theatre,040256854/n</string>
+    <string name="ps">\tSHO Siddipet Rural. Police Station, Contact Details, SHO Details, SHO Image. Siddipet Rural Police Station, Ph.No. : 08457-222606></string>
+    <string name="fire">/t Medak Road, Prashanthi Nagar, Siddipet, Medak - 502372, Near Gandhiji Statue Government Organisations Fire Brigade Services Fire Fighting Training Fire Extinguisher Refilling Services Fire Alarm Dealers/n</string>
+    <string name="mangalya">Vegetable Market Road, Azam Pura, Siddipet, Telangana 502103 Mangalya Shopping Mall, Address</string>
+    <string name="cmr"><![CDATA[8-1-32-37 & 8-2-125, Hyderabad Road, Shivaji Nagar, Siddipet, Telangana 502103]]></string>
+    <string name="trends_sp">Hyderabad Rd, Besides New Bus Stand, Housing Board Colony, Siddipet, Telangana 502103</string>
+    <string name="bombay">Near Old Bus Stand, Shivaji Nagar, Siddipet, Telangana 502103</string>
+    <string name="rel"><![CDATA[Ground & First Floor, No. 12-3192/1, Mohinpura Street, Medak, Road, Siddipet, Telangana 502103]]></string>
+    <string name="vmart_sp">17-3-87, R/N, Maddur - Husnabad Rd, Kushal Nagar, Siddipet, Telangana 502375</string>
+    <string name="seetha_cin">Sircilla-Siddipet Rd, Old Bus Stand, Shivaji Nagar, Siddipet, Telangana 502103</string>
+    <string name="asian">Srinivas Nagar, Siddipet, Telangana 502103</string>
+    <string name="balaji_cin">Aphb Colony, Srinivas Nagar, Siddipet, Telangana 502103</string>
+    <string name="komti">Komati CheruvuSiddipet, Telangana 502103</string>
+    <string name="swim">Housing Board Colony, Siddipet - 502103</string>
+    <string name="mini">Mini stadium, Besides Govt Degree College, Siddipet, Telangana 502103</string>
+    <string name="sdptmandal">\t *Siddipet (Urban)\n
+ * Siddipet (Rural)\n
+* Nangnoor\n
+* Chinnakodur\
+        * Thoguta\n
+* Doultabad\n
+* Mirdoddi\n
+* Dubbak\n
+* Cherial\n
+* Komuravelli\n
+* Gajwel\n
+* Jagdevpur\n
+* Kondapak\n
+* Mulug\n
+* Markook\n
+* Wargal\n
+* Raipole\n
+* Husnabad\n
+* Akkannapet\n
+* Koheda\n
+* Bejjanki\n
+* Maddur</string>
+    <string name="sdptvillages">Tadkapally\n Ensanpally\n Burugupally\n Mittapally\n Ponnal\n Nancharpally\n Bakrichapialv\n Siddipet (M + OG)\n Siddipet (CT)\nImamabad\n Narsapur\n Mandapally\n  Velkatur\n Chintamadaka\n Ibrahimpur\n Narayanraopet\n Seetharampally\n Ankampet\n Raghavapur\\n Pullur\n Raorukula\n Machapur (PattiDubbak)\n Tornal\n Bussapur\n Venkatapur\n Irkode\n Chinna Gundavell\n Jakkapur\n Gurralagondi\n Malyal\n Mundrai\n Rajagopalpet\n Palamakula\n Baddipadaga\n  Banda Mailaram\n Baswapur\n Izara\n Dasarlapally\n Achaipally\n Singannaguda\n Srirampur\n Narsapur\nTuniki\n Marmamula\n Dharmaram\n Lakkapally\n Rebarthi\n Vangapally\n Ladunoor\n</string>
+    <string name="sdptschools">\t1.ABYASA SCHOOL SIDDIPET \n2.ADARSHA VIDYANIKETHAN \n3.AKSHARA JUNIOR COLLEGE SIDDIPET\n 4.AMBITUS SCHOOL E/M \n5.BABYMOON HSCHOOL \n6.BHARATIYA VIDYALAYAM 7.BODHI SCHOOL, SAJID PURA \n8.C V RAMAN PUBLIC UP SCHOOL \n9.DECENT UPS \n10.\tGAYATHRI HIGH SCHOOL \n11.\tGEETHANJALI JUNIOR COLLEGE \n12.\tGOVT HIGH SCHOOL, SIDDIPET \n13.\tGOVT PS NO.5 (BHARATNAGAR) 14.\tGOVT. JR. COLLEGE FOR BOYS , SIDDIPET \n15.\tGOVT. JR. COLLEGE FOR GIRLS , SIDDIPET \n16.\tGURUNAHA VIDYALAYAM \n17.\tKAKATHIYA HIGH SCHOOL E/M \n18.\tKERALLA MODEL SCHOOL\n 19.\tKEYS MODEL SCHOOL UPS \n20.\tKRISHNAVENI TALENT SCHOL \n21.\tMASTER MINDS JUNIOR COLLEGE , SIDDIPET \n22.\tMPPS BAKRICHEPYAL \n23.\tMPPS BOGULA BANDA \n24.\tMPPS DAMMANNAGARI GUDEM \n25.\tMPPS INDIRANAGAR COLONY \n26.tMPPS INDIRANAGAR SOUTH \n27.\tMPPS KUSHAL NAGAR \n28.\tMPPS MITTAPALLY \n29.\tMPPS NTR NAGAR \n30.\tMPPS PRASHANTHNAGAR T/M \n31.\tMPUPS NANCHARPALLY \n32.\tMPUPS RANGADAMPALLY \n33\tMPUPS YELLUPALLY \n34.\tNEETAJI PUBLIC SCHOOL \n35.\tNEW GENERATION JUNIOR COLLEGE , SIDDIPET \n36.\tNEW VIJETHA SCHOOL \n37.\tORKIDS SCHOOL EM, KHADERPURA \n38\tPRAGATHI VOCL JR COLLEGE, H.NO.2-1-186,BHARATH N \n39\tPRATHIBHA JR. COLLEGE , SIDDIPET \n40.\tRAGHAVENDRA HIGH SCHOOL \n41.\tS.M.S JUNIOR COLLEGE , SIDDIPET \n42.\tSAI CHAITANYA JUNIOR COLLEGE \n43.\tSCHOLARS GRAMMAR SCHOOL HS \n44.\tSPICE WORLD SCHOOL \n45.\tSPICE WORLD SCHOOL, GANESH NAGAR \n46.\tSREE JASMINE UPSCHOOL \n47.\tSRI CHAITANYA E TCHNO \n48.\tSRI GNANA SARASWATHI VOCATIONAL JUNIOR COLLEGE \n49.\tSRI NIKHILESHWARANANDA HIGH SCHOOL \n50.\tSRI VANI HIGH SCHOOL \n51.\tSRI VANI TECHNO SCHOOL \n52.\tSRI VIGNAN BHARATHI VIDYALAYAM \n53.\tSRI. VIDHYA BHARATHI HIGH SCHOOL \n54.\tSRK TECHNO HIGH SCHOOL \n55.\tST. JOHN\'S HIGH SCHOOL \n56.\tTIMES HIGH SCHOOL E/M, KHADERPURA \n57.\tTULIPS CONCEPT SCHOOL \n58.\tVIJWALA JUNIOR COLLEGE , SIDDIPET \n59.\tVIVEKANANDA HIGH SCHOOL \n60.\tZPHS BAKRICHAPIAL\n 61.\tZPHS MITTAPALLY</string>
+    <string name="sdptcolleges">\t1.Indur Institute of Engineering and Technology, Siddipet\n 2.SRK Degree College (Sarvepalli Radha Krishan), Siddipet\n 3.YPR Degree College, Siddipet\n 4.Government Degree College, Siddipet\n 5.Osmania University Post Graduate Centre, Siddipet\n 6.ST MARYS COLLEGE OF EDUCATION, Siddipet\n 7.ISLAMIA COLLEGE OF EDUCATION, Siddipet\n 8.Ellenki Engineering College, Siddipet\n 9.Prathiba Degree College, Siddipet\n 10.BMR Degree College, Siddipet\n 11.Vijaya Sai Degree College, Siddipet\n 12.Sanga Mithra Degree College, Siddipet\n 13.Adharsha Degree College, Siddipet\n 14.SVB Degree College, Siddipet\n 15.Sri Vidya Degree College, Siddipet\n 16.Gayatri Degree College, Siddipet\n 17.Sathyam Degree College, Siddipet\n 18.Ellenki Degree College, Siddipet\n 19.1ndira Womens Degree College, Siddipet\n 20.Vedha HPT College, Siddipet</string>
+    <string name="hot_balaji">Hyderabad Rd, Housing Board Colony, Siddipet, Telangana 502103</string>
+    <string name="hot_one">Hyderabad Road | Beside Ananda Chari Towel Trust Old aged Home Near Komuravelli Kaman, Kondapaka Village, Siddipet 502103, India</string>
+    <string name="hot_grand">Siddipet, Srinivas Nagar, Siddipet, Telangana 502103</string>
+    <string name="hot_aks">Hyderabad Road, Housing Board Colony, Siddipet, Telangana 502103</string>
+
+
+</resources>
